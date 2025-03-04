@@ -1,4 +1,13 @@
-## Hi there 👋
+### TEST
+## TEST
+# TEST
+
+Unbolded - **Bolded**
+Unitalicized - *Italicized*
+Unbolded & Unitalicized - ***Bolded & Italicized***
+Not Using Strikethrough - ~Using Strikethrough~
+[Link](https://www.basketball-reference.com/players/j/jamesle01.html) - Lebron James Link
+
 
 <!--
 **tdirige/tdirige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
